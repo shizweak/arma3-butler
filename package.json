@@ -1,0 +1,33 @@
+{
+  "name": "arma3-butler",
+  "version": "0.0.1",
+  "description": "Automate your ARMA III server with Butler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shizweak/arma3-butler.git"
+  },
+  "keywords": [
+    "arma",
+    "arma3",
+    "butler",
+    "maintenance",
+    "game",
+    "gaming"
+  ],
+  "author": "Shizweak <shizweak.dayz@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shizweak/arma3-butler/issues"
+  },
+  "homepage": "https://github.com/shizweak/arma3-butler",
+  "dependencies": {
+    "async": "^0.9.0",
+    "battle-node": "0.0.4",
+    "observify": "^1.1.0",
+    "rimraf": "^2.3.0"
+  }
+}
